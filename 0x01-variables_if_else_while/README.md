@@ -1,0 +1,7 @@
+File: 0-positive_or_negative.c is a code to print whether the number stored in the variable n is positive or negative.
+
+File:1-last_digit.c is a code to print the last digit of the number stored in the variable n.
+
+File: 2-print_alphabet.c a program that prints the alphabet in lowercase, followed by a new line.
+
+File: 3-print_alphabets.c a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
