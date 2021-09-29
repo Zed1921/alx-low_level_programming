@@ -11,3 +11,5 @@ File: 3-main.c contain main function
 File: 3-op_functions.c contain the 5 following functions: op_add, op_sub, op_mul, op_div and op_mod
 
 File: 3-get_op_func.c contain the function that selects the correct function to perform the operation asked by the user
+
+File: 100-main_opcodes.c a program that prints the opcodes of its own main function.
