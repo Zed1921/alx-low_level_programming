@@ -9,3 +9,7 @@ File: 3-set_bit.c a function that sets the value of a bit to 1 at a given index.
 File: 4-clear_bit.c a function that sets the value of a bit to 0 at a given index.
 
 File: 5-flip_bits.c a function that returns the number of bits you would need to flip to get from one number to another.
+
+File: 100-get_endianness.c a function that checks the endianness.
+
+File: 101-password the password for the ginen program.
